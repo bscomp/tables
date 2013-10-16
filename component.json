@@ -1,0 +1,9 @@
+{
+  "name": "tables",
+  "repo": "bscomp/tables",
+  "description": "component-bootstrap",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "styles": ["index.less"]
+}
